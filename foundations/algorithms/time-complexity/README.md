@@ -1,4 +1,4 @@
-| Concept | What you learned |
+| Concept | What I learned |
 |---|---|
 | Data structures | How data is organized and stored |
 | Lists | Ordered collections that allow duplicates |
