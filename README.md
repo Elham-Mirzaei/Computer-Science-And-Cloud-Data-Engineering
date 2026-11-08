@@ -86,7 +86,7 @@ The learning roadmap is structured as a six-month program.
 
 | Month | Main Focus | Status |
 |---|---|---|
-| 01 | Computer Science Foundations | Not Started |
+| 01 | Computer Science Foundations | 08.11.2026 - Now |
 | 02 | Computer Systems | Not Started |
 | 03 | Databases & Distributed Systems | Not Started |
 | 04 | Cloud Computing & Infrastructure | Not Started |
